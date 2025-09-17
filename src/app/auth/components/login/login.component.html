@@ -1,0 +1,16 @@
+<div class="card-container">
+  <div class="card">
+    <h2 class="card-header">Please Login</h2>
+    <form [formGroup]="loginForm" (ngSubmit)="onSubmit()" class="card-form">
+      <div class="form-field">
+        <label for="email">Email:</label>
+        <input type="text" id="email" formControlName="email" placeholder="Enter your email" />
+      </div>
+      <div class="form-field">
+        <label for="password">Password:</label>
+        <input type="password" id="password" formControlName="password" placeholder="Enter your password" />
+      </div>
+      <button class="card-button" type="submit">Sign In</button>
+    </form>
+  </div>
+</div>
