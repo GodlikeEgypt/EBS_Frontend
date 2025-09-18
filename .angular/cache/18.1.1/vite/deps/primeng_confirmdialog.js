@@ -1,27 +1,16 @@
 import {
   CheckIcon
-} from "./chunk-JTGD2EFO.js";
+} from "./chunk-A6VUC54Q.js";
 import {
   TimesIcon
-} from "./chunk-QK4IBBPW.js";
+} from "./chunk-UXGRFPV2.js";
 import {
   ButtonDirective,
   ButtonModule,
   DomHandler,
   Ripple,
   RippleModule
-} from "./chunk-YP3JLE5L.js";
-import {
-  ConfirmEventType,
-  ConfirmationService,
-  Footer,
-  PrimeNGConfig,
-  PrimeTemplate,
-  SharedModule,
-  TranslationKeys,
-  UniqueComponentId,
-  zindexutils
-} from "./chunk-7WDWHF2J.js";
+} from "./chunk-TIZTEPKI.js";
 import {
   animate,
   animation,
@@ -38,6 +27,17 @@ import {
   NgStyle,
   NgTemplateOutlet
 } from "./chunk-WNHSST2V.js";
+import {
+  ConfirmEventType,
+  ConfirmationService,
+  Footer,
+  PrimeNGConfig,
+  PrimeTemplate,
+  SharedModule,
+  TranslationKeys,
+  UniqueComponentId,
+  zindexutils
+} from "./chunk-7WDWHF2J.js";
 import {
   ChangeDetectionStrategy,
   ChangeDetectorRef,

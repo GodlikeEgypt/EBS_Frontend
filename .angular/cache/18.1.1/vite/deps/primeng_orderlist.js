@@ -2,7 +2,7 @@ import {
   AngleDownIcon,
   AngleUpIcon,
   SearchIcon
-} from "./chunk-3REFCYB2.js";
+} from "./chunk-OWREJOGQ.js";
 import {
   BaseIcon,
   ButtonDirective,
@@ -10,15 +10,7 @@ import {
   DomHandler,
   Ripple,
   RippleModule
-} from "./chunk-YP3JLE5L.js";
-import {
-  FilterService,
-  ObjectUtils,
-  PrimeNGConfig,
-  PrimeTemplate,
-  SharedModule,
-  UniqueComponentId
-} from "./chunk-7WDWHF2J.js";
+} from "./chunk-TIZTEPKI.js";
 import {
   CdkScrollableModule,
   Directionality,
@@ -43,6 +35,14 @@ import {
   NgTemplateOutlet,
   isPlatformBrowser
 } from "./chunk-WNHSST2V.js";
+import {
+  FilterService,
+  ObjectUtils,
+  PrimeNGConfig,
+  PrimeTemplate,
+  SharedModule,
+  UniqueComponentId
+} from "./chunk-7WDWHF2J.js";
 import {
   ApplicationRef,
   BehaviorSubject,

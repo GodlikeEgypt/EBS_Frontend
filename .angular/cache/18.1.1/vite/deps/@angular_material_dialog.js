@@ -12,6 +12,16 @@ import {
   TemplatePortal
 } from "./chunk-EKY2ADWF.js";
 import {
+  animate,
+  animateChild,
+  group,
+  query,
+  state,
+  style,
+  transition,
+  trigger
+} from "./chunk-I54XM64B.js";
+import {
   A11yModule,
   CdkScrollable,
   Directionality,
@@ -24,16 +34,6 @@ import {
   coerceNumberProperty,
   hasModifierKey
 } from "./chunk-EFIE6FCN.js";
-import {
-  animate,
-  animateChild,
-  group,
-  query,
-  state,
-  style,
-  transition,
-  trigger
-} from "./chunk-I54XM64B.js";
 import {
   DOCUMENT,
   Location
