@@ -1,4 +1,11 @@
 import {
+  ObjectUtils,
+  PrimeNGConfig,
+  PrimeTemplate,
+  SharedModule,
+  UniqueComponentId
+} from "./chunk-7WDWHF2J.js";
+import {
   DOCUMENT,
   NgClass,
   NgIf,
@@ -6,13 +13,6 @@ import {
   NgTemplateOutlet,
   isPlatformBrowser
 } from "./chunk-WNHSST2V.js";
-import {
-  ObjectUtils,
-  PrimeNGConfig,
-  PrimeTemplate,
-  SharedModule,
-  UniqueComponentId
-} from "./chunk-7WDWHF2J.js";
 import {
   ChangeDetectionStrategy,
   Component,
@@ -2105,4 +2105,4 @@ export {
   Button,
   ButtonModule
 };
-//# sourceMappingURL=chunk-TIZTEPKI.js.map
+//# sourceMappingURL=chunk-YP3JLE5L.js.map

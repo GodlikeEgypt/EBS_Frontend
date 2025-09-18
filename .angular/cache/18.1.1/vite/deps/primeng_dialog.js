@@ -1,6 +1,6 @@
 import {
   TimesIcon
-} from "./chunk-UXGRFPV2.js";
+} from "./chunk-QK4IBBPW.js";
 import {
   BaseIcon,
   ButtonDirective,
@@ -8,7 +8,17 @@ import {
   DomHandler,
   Ripple,
   RippleModule
-} from "./chunk-TIZTEPKI.js";
+} from "./chunk-YP3JLE5L.js";
+import {
+  Footer,
+  Header,
+  PrimeNGConfig,
+  PrimeTemplate,
+  SharedModule,
+  TranslationKeys,
+  UniqueComponentId,
+  zindexutils
+} from "./chunk-7WDWHF2J.js";
 import {
   animate,
   animation,
@@ -26,16 +36,6 @@ import {
   NgTemplateOutlet,
   isPlatformBrowser
 } from "./chunk-WNHSST2V.js";
-import {
-  Footer,
-  Header,
-  PrimeNGConfig,
-  PrimeTemplate,
-  SharedModule,
-  TranslationKeys,
-  UniqueComponentId,
-  zindexutils
-} from "./chunk-7WDWHF2J.js";
 import {
   ChangeDetectionStrategy,
   ChangeDetectorRef,

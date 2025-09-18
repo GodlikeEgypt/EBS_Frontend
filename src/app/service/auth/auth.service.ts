@@ -2,7 +2,7 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable, tap } from 'rxjs';
 
-const BASE_URL = "https://ebsbackend.onrender.com"
+const BASE_URL = "https://ebsbackend.onrender.com/"
 
 @Injectable({
   providedIn: 'root'

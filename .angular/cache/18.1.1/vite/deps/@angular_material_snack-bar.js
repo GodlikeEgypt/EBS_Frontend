@@ -10,7 +10,14 @@ import {
   OverlayModule,
   PortalModule,
   TemplatePortal
-} from "./chunk-64KAJPSS.js";
+} from "./chunk-EKY2ADWF.js";
+import {
+  BreakpointObserver,
+  Breakpoints,
+  FocusMonitor,
+  LiveAnnouncer,
+  Platform
+} from "./chunk-EFIE6FCN.js";
 import {
   animate,
   state,
@@ -18,13 +25,6 @@ import {
   transition,
   trigger
 } from "./chunk-I54XM64B.js";
-import {
-  BreakpointObserver,
-  Breakpoints,
-  FocusMonitor,
-  LiveAnnouncer,
-  Platform
-} from "./chunk-TG4WN3SN.js";
 import {
   DOCUMENT
 } from "./chunk-WNHSST2V.js";
